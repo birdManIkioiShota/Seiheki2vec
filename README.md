@@ -1,0 +1,2 @@
+# Seiheki2vec
+DLsiteの音声作品から生成した学習済みモデル
